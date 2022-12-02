@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://lazycat292.github.io/developmentInitial`
+If you used the stencil code, this is `https://lazycat292.github.io/Development`
 
 ### Goal and Value of the Application
 This application makes it easier for users to find the sports gear they are looking for. There are options to look by team so they can purchase their favorite teams while there are also options that let you sort by price if the user is looking for more affordable items. 
