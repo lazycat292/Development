@@ -1,7 +1,6 @@
 import './App.css';
 import { useEffect, useState } from "react";
-import {StoreItem} from "./components/StoreItem"
-import {ShowCart} from "./components/ShowCart"
+import {StoreItem} from "./StoreItem"
 const storeData = [
   {
     "name": "Messi Barcelona Jersey",
